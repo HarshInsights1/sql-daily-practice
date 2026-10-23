@@ -8,3 +8,9 @@ SELECT Name from city
 where population > 120000 
 and
 countrycode = "USA";
+
+-- Explanation:
+-- SELECT NAME returns only the city names.
+-- WHERE filters rows based on the given conditions.
+-- AND ensures that both conditions must be true.
+--
