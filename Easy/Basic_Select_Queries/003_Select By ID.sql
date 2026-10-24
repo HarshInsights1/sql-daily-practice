@@ -5,3 +5,8 @@
 -- Concepts: SELECT, WHERE, AND
 -- Solution:
 SELECT * from city where id = 1661;
+--Learning:
+-- Use the WHERE clause to filter records based on a
+-- specific condition.
+-- Since ID = 1661 is an equality condition, only rows
+-- matching this ID will be returned
