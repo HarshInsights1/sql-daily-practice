@@ -18,7 +18,7 @@ Solutions are written by me and organized by difficulty. Questions are taken fro
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy       | 0      |
+| Easy       | 2      |
 | Medium     | 0      |
 | Hard       | 0      |
 
